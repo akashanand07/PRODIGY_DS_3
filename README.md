@@ -54,3 +54,6 @@ Matplotlib, Seaborn
 Predicts Yes or No for product/service purchase.
 
 Useful for targeted marketing and customer segmentation
+
+Example Visualization
+
